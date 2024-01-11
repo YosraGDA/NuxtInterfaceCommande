@@ -1,5 +1,11 @@
 <template>
-  <Tutorial/>
+  <div>
+  <h1>Accueil</h1>
+  <nuxtLayout>
+    <nuxtPage/>
+
+  </nuxtLayout>
+</div>
 </template>
 
 <script>
